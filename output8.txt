@@ -1,0 +1,83 @@
+Content from text1.txt:
+a1
+
+----------------------------
+Content from text2.txt:
+b1
+b2
+
+----------------------------
+Content from text3.txt:
+c1
+c2
+c3
+
+----------------------------
+Content from text4.txt:
+d1
+d2
+d3
+d4
+
+----------------------------
+Content from text5.txt:
+e1
+e2
+e3
+
+----------------------------
+Content from text6.txt:
+f1
+f2
+f3
+f4
+f5
+f6
+
+----------------------------
+Content from text7.txt:
+g1
+g2
+g3
+g4
+g5
+g6
+g7
+
+----------------------------
+Content from text8.txt:
+h1
+h2
+h3
+h4
+h5
+h6
+h7
+h8
+
+----------------------------
+Content from text9.txt:
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+i8
+i9
+
+----------------------------
+Content from text10.txt:
+j1
+j2
+j3
+j4
+j5
+j6
+j7
+j8
+j9
+j10
+
+----------------------------
